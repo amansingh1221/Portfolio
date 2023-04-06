@@ -4,7 +4,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/amansingh1221/ReadME-Generator">
-    <img src="./assets/images/aman-whiteontransparent.png" alt="Logo" width="120" height="38">
+    <img src="./assets/images/aman-whiteontransparent.png" alt="Logo" width="130" height="38">
   </a>
 
   <h3 align="center">Portfolio Website</h3>
