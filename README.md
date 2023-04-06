@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/AmanSingh1221/Portfolio">
-    <img src="./assets/images/aman-whiteontransparent.png" alt="Logo" width="80" height="50">
+    <img src="./assets/images/aman-whiteontransparent.png" alt="Logo" width="120" height="50">
   </a>
 
   <h3 align="center">Portfolio Website</h3>
