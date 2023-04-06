@@ -24,7 +24,7 @@
   </p>
 </p>
 
-![Downloads](https://img.shields.io/github/downloads/amansingh1221/Portfolior/total) ![Contributors](https://img.shields.io/github/contributors/amansingh1221/Portfolio?color=dark-green) ![Forks](https://img.shields.io/github/forks/amansingh1221/Portfolio?style=social) ![Stargazers](https://img.shields.io/github/stars/amansingh1221/Portfolio?style=social) ![Issues](https://img.shields.io/github/issues/amansingh1221/Portfolio) ![License](https://img.shields.io/github/license/amansingh1221/Portfolio) 
+![Downloads](https://img.shields.io/github/downloads/amansingh1221/Portfolio/total) ![Contributors](https://img.shields.io/github/contributors/amansingh1221/Portfolio?color=dark-green) ![Forks](https://img.shields.io/github/forks/amansingh1221/Portfolio?style=social) ![Stargazers](https://img.shields.io/github/stars/amansingh1221/Portfolio?style=social) ![Issues](https://img.shields.io/github/issues/amansingh1221/Portfolio) ![License](https://img.shields.io/github/license/amansingh1221/Portfolio) 
 
 ## Table Of Contents
 
