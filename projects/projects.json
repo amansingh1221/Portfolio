@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Stack OverFlow Clone",
+    "desc": "Fully fledged android CRUD app based on different design patterns. Built using Java, XML, SQLite, Firebase, RoomDB, MVVM.",
+    "image": "sample",
+    "category": "web-app",
+    "links": {
+      "view": "https://stack-overflow-aman.vercel.app",
+      "code": "https://github.com/amansingh1221/StackOverflow"
+    }
+  },
+  {
+    "name": "Quiz app",
+    "desc": "Fully fledged android CRUD app based on different design patterns. Built using Java, XML, SQLite, Firebase, RoomDB, MVVM.",
+    "image": "quiz",
+    "category": "web-app",
+    "links": {
+      "view": "https://quiz-app-aman.vercel.app",
+      "code": "https://github.com/amansingh1221/Quiz-app"
+    }
+  }
+]
