@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
-  <a href="https://github.com/AmanSingh1221/ReadME-Generator">
-    <img src=".assets/images/coloronTransparent.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/AmanSingh1221/Portfolio">
+    <img src="./assets/images/coloronTransparent.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Portfolio Website</h3>
@@ -10,14 +10,14 @@
     Welcome to my portfolio website!
     <br/>
     <br/>
-    <a href="https://github.com/AmanSingh1221/ReadME-Generator"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/AmanSingh1221/Portfolio"><strong>Explore the docs »</strong></a>
     <br/>
     <br/>
-    <a href="https://github.com/AmanSingh1221/ReadME-Generator">View Demo</a>
+    <a href="https://github.com/AmanSingh1221/Portfolio">View Demo</a>
     .
-    <a href="https://github.com/AmanSingh1221/ReadME-Generator/issues">Report Bug</a>
+    <a href="https://github.com/AmanSingh1221/Portfolio/issues">Report Bug</a>
     .
-    <a href="https://github.com/AmanSingh1221/ReadME-Generator/issues">Request Feature</a>
+    <a href="https://github.com/AmanSingh1221/Portfolio/issues">Request Feature</a>
   </p>
 </p>
 
@@ -36,17 +36,17 @@
 
 ## About The Project
 
-![Screen Shot](.assets/images/sample.png)
+![Screen Shot](./assets/images/sample.png)
 
 This personal portfolio website is designed and developed using HTML5, CSS3, JavaScript, and jQuery. The website features a clean and modern design with a responsive layout that adapts to different screen sizes. The website showcases my skills, experience, and projects through various sections such as About, Skills, Projects, and Contact. The website includes interactive elements such as smooth scrolling, animated effects, and a hamburger menu for mobile devices. The website is also optimized for search engines and fast loading speed, providing a great user experience for visitors. Overall, this personal portfolio website reflects my creativity, professionalism, and technical abilities as a web developer.
 
 Features:
 
 Responsive design: The website is optimized for viewing on desktop, tablet, and mobile devices.
-Navigation bar: Users can easily navigate through the website using the navigation bar.
-About section: Provides information about my background, skills, and experience.
-Projects section: Showcases some of the projects I have worked on in the past, including links to their GitHub repositories.
-Contact section: Users can easily get in touch with me using the contacts.
+<br/>Navigation bar: Users can easily navigate through the website using the navigation bar.
+<br/>About section: Provides information about my background, skills, and experience.
+<br/>Projects section: Showcases some of the projects I have worked on in the past, including links to their GitHub repositories.
+<br/>Contact section: Users can easily get in touch with me using the contacts.
 
 Skills:
 
