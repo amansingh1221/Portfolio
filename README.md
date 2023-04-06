@@ -1,6 +1,6 @@
 <br/>
 <p align="center">
-  <a href="https://github.com/AmanSingh1221/Portfolio">
+  <a href="https://github.com/amansingh1221/Portfolio">
     <img src="./assets/images/aman-whiteontransparent.png" alt="Logo" width="120" height="50">
   </a>
 
@@ -10,18 +10,18 @@
     Welcome to my portfolio website!
     <br/>
     <br/>
-    <a href="https://github.com/AmanSingh1221/Portfolio"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/amansingh1221/Portfolio"><strong>Explore the docs »</strong></a>
     <br/>
     <br/>
-    <a href="https://github.com/AmanSingh1221/Portfolio">View Demo</a>
+    <a href="https://github.com/amansingh1221/Portfolio">View Demo</a>
     .
-    <a href="https://github.com/AmanSingh1221/Portfolio/issues">Report Bug</a>
+    <a href="https://github.com/amansingh1221/Portfolio/issues">Report Bug</a>
     .
-    <a href="https://github.com/AmanSingh1221/Portfolio/issues">Request Feature</a>
+    <a href="https://github.com/amansingh1221/Portfolio/issues">Request Feature</a>
   </p>
 </p>
 
-![Downloads](https://img.shields.io/github/downloads/AmanSingh1221/ReadME-Generator/total) ![Contributors](https://img.shields.io/github/contributors/AmanSingh1221/ReadME-Generator?color=dark-green) ![Forks](https://img.shields.io/github/forks/AmanSingh1221/ReadME-Generator?style=social) ![Stargazers](https://img.shields.io/github/stars/AmanSingh1221/ReadME-Generator?style=social) ![Issues](https://img.shields.io/github/issues/AmanSingh1221/ReadME-Generator) ![License](https://img.shields.io/github/license/AmanSingh1221/ReadME-Generator) 
+![Downloads](https://img.shields.io/github/downloads/amansingh1221/ReadME-Generator/total) ![Contributors](https://img.shields.io/github/contributors/amansingh1221/ReadME-Generator?color=dark-green) ![Forks](https://img.shields.io/github/forks/amansingh1221/ReadME-Generator?style=social) ![Stargazers](https://img.shields.io/github/stars/amansingh1221/ReadME-Generator?style=social) ![Issues](https://img.shields.io/github/issues/amansingh1221/ReadME-Generator) ![License](https://img.shields.io/github/license/amansingh1221/ReadME-Generator) 
 
 ## Table Of Contents
 
@@ -73,13 +73,13 @@ Here is the link to my Portfolio website: <a href="https://portfolio-amansingh.v
 
 ## Roadmap
 
-See the [open issues](https://github.com/AmanSingh1221/ReadME-Generator/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/amansingh1221/ReadME-Generator/issues) for a list of proposed features (and known issues).
 
 
 ## License
 
-Distributed under the MIT License. See [LICENSE](https://github.com/AmanSingh1221/ReadME-Generator/blob/main/LICENSE.md) for more information.
+Distributed under the MIT License. See [LICENSE](https://github.com/amansingh1221/ReadME-Generator/blob/main/LICENSE.md) for more information.
 
 ## Authors
 
-* **Aman Singh** - *Computer Science and Engineering Student* - [Aman Singh](https://github.com/AmanSingh1221/) - *Personal Portfolio Website*
+* **Aman Singh** - *Computer Science and Engineering Student* - [Aman Singh](https://github.com/amansingh1221/) - *Personal Portfolio Website*
