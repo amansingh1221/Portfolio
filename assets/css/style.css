@@ -17,6 +17,7 @@ html {
   scroll-behavior: smooth;
 }
 body {
+  width: 100%;
   background: #f7f7f7;
   font-family: "Poppins", sans-serif;
 }
@@ -72,6 +73,7 @@ header {
   box-shadow: 0 1px 4px rgba(146, 161, 176, 0.3);
 }
 section {
+  width: 100%;
   min-height: 100vh;
   padding: 2rem 9%;
 }
@@ -123,7 +125,7 @@ header .navbar ul li a:hover {
   color: rgb(24, 2, 63);
   display: none;
 }
-@media (max-width: 768px) {
+@media (max-width: 850px) {
   #menu {
     display: block;
   }
@@ -310,12 +312,31 @@ header .navbar ul li a:hover {
 /* social icons end */
 
 /* hero media queries starts*/
-@media (max-width: 450px) {
+@media (max-width: 550px) {
+  .home .content {
+    flex-direction: column;
+
+  }
   .home .btn {
     margin: 4rem 0;
   }
   .socials {
     margin-top: 12rem;
+  }
+  .home .content {
+    /* flex: 1 1 60rem; */
+    width: 100%;
+    padding-top: 3rem;
+    z-index: 1;
+  }
+  .home .image {
+    /* flex: 1 1 10rem; */
+    margin: auto;
+    margin-top: 50px;
+    margin-bottom: 10px;
+    width:70% ;
+
+    z-index: 1;
   }
   .home .image img {
     margin-top: -4rem;
@@ -465,13 +486,15 @@ header .navbar ul li a:hover {
   margin-top: 2rem;
 }
 .skills .container .row {
-  display: grid;
-  grid-template-columns: repeat(6, 1fr);
-  flex-wrap: wrap;
+  display: flex;
+  justify-content: flex-start;
+  flex-wrap:wrap;
   gap: 1.8rem;
 }
 .skills .container .bar {
+  margin: auto;
   margin-bottom: 15px;
+  min-width: 140px;
   padding: 10px;
   border-radius: 1rem;
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
