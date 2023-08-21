@@ -1,7 +1,7 @@
 [
   {
     "name": "Stack OverFlow Clone",
-    "desc": "Fully fledged android CRUD app based on different design patterns. Built using Java, XML, SQLite, Firebase, RoomDB, MVVM.",
+    "desc": "Project is based on MERN Stack which is a web application that provides users a platform to ask, resolve and share their queries. Users can sign up and log in to their account, Ask questions and answer the queries of other users.",
     "image": "sample",
     "category": "web-app",
     "links": {
@@ -11,7 +11,7 @@
   },
   {
     "name": "Quiz app",
-    "desc": "Fully fledged android CRUD app based on different design patterns. Built using Java, XML, SQLite, Firebase, RoomDB, MVVM.",
+    "desc": "Online Quiz Application is a web-based application that allows users to take quizzes . The application will provide a user-friendly interface where users can select the quiz, answer questions, and view their score at the end of the quiz.",
     "image": "quiz",
     "category": "web-app",
     "links": {
