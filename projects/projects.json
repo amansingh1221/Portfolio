@@ -18,5 +18,15 @@
       "view": "https://quiz-app-aman.vercel.app",
       "code": "https://github.com/amansingh1221/Quiz-app"
     }
+  },
+  {
+    "name": "Weather Dekho",
+    "desc": "A ReactJS weather app that provides real-time weather information, including temperature, conditions, and forecasts, with an intuitive and responsive user interface for a seamless weather-checking experience.",
+    "image": "weather",
+    "category": "web-app",
+    "links": {
+      "view": "https://amansingh-weather-dekho.vercel.app/",
+      "code": "https://github.com/amansingh1221/WeatherDekho"
+    }
   }
 ]
